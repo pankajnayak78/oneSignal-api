@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="httpclient-4.5.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="httpcore-4.4.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/pankaj.nayak/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.8.4/jackson-core-2.8.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/pankaj.nayak/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.8.4/jackson-annotations-2.8.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/pankaj.nayak/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.8.4/jackson-databind-2.8.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/pankaj.nayak/.ivy2/cache/org.apache.commons/commons-logging/jars/commons-logging-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/OnMobileData/Jars/commons-codec-1.10/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar" sourcepath="C:/Program Files/Java/jdk1.8.0_121/src.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
